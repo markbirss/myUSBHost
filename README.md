@@ -7,3 +7,5 @@ https://github.com/tanakamasayuki/EspUsbHost
 
 http://gijin77.blog.jp/archives/37402177.html
 
+I have tried posting on this blog but cannot process the submit page
+
