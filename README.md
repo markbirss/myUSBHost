@@ -3,6 +3,10 @@ M5Stamp AtomS3/StampS3 USB Keyboard input as if using a M5Stack CardKB I2C Keybo
 
 ## Compatible with ESP32
 
+## Video
+
+https://www.youtube.com/watch?v=EBRcyMIjh_s
+
 ## Credits
 
 https://github.com/tanakamasayuki/EspUsbHost
