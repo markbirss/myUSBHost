@@ -7,6 +7,10 @@ M5Stack StampS3/AtomS3 USB Keyboard input as if using a M5Stack CardKB I2C Keybo
 
 https://www.youtube.com/watch?v=EBRcyMIjh_s
 
+## Notes
+
+Connect your USB keyboard via USB-C OTG cable and connect the groove i2c port to your i2c pins
+
 ## Credits
 
 https://github.com/tanakamasayuki/EspUsbHost
