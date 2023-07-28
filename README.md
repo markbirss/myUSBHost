@@ -7,5 +7,6 @@ https://github.com/tanakamasayuki/EspUsbHost
 
 http://gijin77.blog.jp/archives/37402177.html
 
-I have tried posting on this blog but cannot process the submit page
+I am unable to contact the poster about his work, as the blog wont allow me to post a comment
+
 
