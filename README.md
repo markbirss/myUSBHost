@@ -1,7 +1,10 @@
 # myUSBHost
 M5Stack StampS3/AtomS3 USB Keyboard input as if using a M5Stack CardKB I2C Keyboard on address 0x5F
 
-## Compatible with ESP32
+## Compatible with ESP32 S3
+* M5Stack Stamp S3
+* M5Stack Atom S3
+* M5Stack Atom S3 Lite
 
 ## Video
 
