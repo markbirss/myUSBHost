@@ -5,11 +5,14 @@
 
 //Meshtastic Logo
 #include "mt.c"
-
 #include <M5AtomS3.h>
  //https://docs.m5stack.com/en/core/AtomS3
  #define SDA_PIN 2 
- #define SCL_PIN 1  
+ #define SCL_PIN 1
+ #elif defined(myATOM_S3_Lite)
+//https://docs.m5stack.com/en/core/AtomS3%20Lite
+ #define SDA_PIN  2
+ #define SCL_PIN  1
 #elif defined(mySTAMP_S3)
  //https://docs.m5stack.com/en/core/stamps3
  #define SDA_PIN  13
